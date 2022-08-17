@@ -1,0 +1,15 @@
+E:\Git\Example\Examole003\bin\Debug\net6.0\Examole003.exe
+E:\Git\Example\Examole003\bin\Debug\net6.0\Examole003.deps.json
+E:\Git\Example\Examole003\bin\Debug\net6.0\Examole003.runtimeconfig.json
+E:\Git\Example\Examole003\bin\Debug\net6.0\Examole003.dll
+E:\Git\Example\Examole003\bin\Debug\net6.0\Examole003.pdb
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.csproj.AssemblyReference.cache
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.AssemblyInfoInputs.cache
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.AssemblyInfo.cs
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.csproj.CoreCompileInputs.cache
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.dll
+E:\Git\Example\Examole003\obj\Debug\net6.0\refint\Examole003.dll
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.pdb
+E:\Git\Example\Examole003\obj\Debug\net6.0\Examole003.genruntimeconfig.cache
+E:\Git\Example\Examole003\obj\Debug\net6.0\ref\Examole003.dll
